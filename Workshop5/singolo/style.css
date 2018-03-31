@@ -21,12 +21,12 @@ body {
 }
 .logo {
    float: left;
-    margin-top: 35px;
-    font-size: 1.4rem;
+    margin-top: 25px;
+    font-size: 2rem;
 }
 .links {
-    margin-top: 40px;
-    font-size: 0.75rem;
+    margin-top: 30px;
+    font-size: 0.5rem;
     float: right;
     color: #4b4E61;
 }
@@ -58,15 +58,170 @@ body {
 .header2 {
     background-color: white;
 }
-.logo2 {
-    color: #4b4E61;
-    font-size: 1.4rem;
-    margin-left: 20px;
-    margin-top: 30px;
+.nav2 {
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
 }
-
-
-
+.title1 {
+    font-size: 2rem;
+    color: #686d82;
+}
+.subinfo {
+    margin-top: 20px;
+    font-size: 0.5rem;
+    color: #b9bcc9;
+}
+.nav2 img {
+    width: 100%;
+    margin-top: 20px;   
+}
+.portfolio {
+    background-color: #2c2f38;
+    padding: 20px 0;
+}
+.header3 {
+    background-color: #2c2f38;
+}
+.nav3 {
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title2 {
+    font-size: 2rem;
+    color: #676e8a;
+}
+.subinfo2 {
+    margin-top: 20px;
+    font-size: 0.5rem;
+    color: #6c7087;
+}
+.nav3 img {
+    width: 100%
+    margin-top: 20px;
+}
+.about us {
+    background-color: #f0f0f0;
+    padding: 20px 0;
+}
+.header4 {
+    background-color: #f0f0f0;
+}
+.nav4 {
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title3 {
+    font-size: 2rem;
+    color: #626c85;
+}
+.subinfo3 {
+     margin-top: 20px;
+    font-size: 0.5rem;
+    color: #797d8a;
+}
+.nav4 img {
+    margin-top: 40px;
+}
+.adamjensen {
+    width: 33.3%;
+    float: left;
+}
+.name {
+   font-size: 1.5rem; 
+    color: #626c85;
+}
+.aboutadam {
+    font-size: 0.5rem;
+    color: #8f90a6;
+    margin-top: 10px;
+}
+.desmondmiles {
+    width: 33.3%;
+    float: left;
+}
+.name2 {
+    font-size: 1.5rem; 
+    color: #626c85;
+}
+.aboutdesmond {
+    font-size: 0.5rem;
+    color: #8f90a6;
+    margin-top: 10px;
+}
+.scolaravisari {
+    width: 33.3%;
+    float: left;
+}
+.name3 {
+   font-size: 1.5rem; 
+    color: #626c85; 
+}
+.aboutscolara {
+     font-size: 0.5rem;
+    color: #8f90a6;
+    margin-top: 10px;
+}
+.getaquote {
+    background-color: #f06e67;
+    padding: 20px 0;
+}
+.header5 {
+    background-color: #f06e67;
+}
+.nav5 {
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title4 {
+     font-size: 2rem;
+    color: #f0f0f0;
+}
+.subinfo4 {
+    margin-top: 20px;
+    font-size: 0.5rem;
+    color: #f0f0f0;
+}
+.nav5 img {
+    margin-top: 20px;
+}
+.contactinfo {
+    float: right;
+    width: 33.3%;
+}
+.subheader {
+    color: #f0f0f0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 0.5rem;
+}
+.details {
+    color: #f0f0f0;
+    font-size: 0.5rem;
+}
+.contactinfo img {
+    margin-top: 15px;
+}
+.footer {
+    height:100px;
+    background-color: #2a2d36;
+    padding: 20px 0;
+}
+.nav6 {
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.copyright {
+    color: #6f7280;
+    margin-top: 40px;
+}
+.nav6 img {
+    float: right;
+}
 
 
 

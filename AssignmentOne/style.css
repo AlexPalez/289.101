@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Gaegu');
+div {
+    outline: 1px solid lime;
+}
+body {
+    background-color:beige;
+    margin: 0 0 0 0;
+}
+.header {
+    background-color:burlywood;
+    height: 90px;
+    color: #FFFFFF;
+    border-bottom: solid black;
+}
+.nav {
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo {
+    float: left;
+    margin-right: 20px;
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+.links {
+    margin-top: 25px;
+    font-size: 1.6rem;
+    float: right;
+    font-family: 'Gaegu', cursive;  
+}
+. links a {
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.links a:hover {
+    color: darkred;
+}

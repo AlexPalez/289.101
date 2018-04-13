@@ -195,7 +195,7 @@ infobox p1 {
     max-width: 800px;
     width: 45%;
     height: 250px;  
-    margin-left: 23px;
+    margin-left: 25px;
     margin-top: 10px;
     border: 5px solid white;
     float: left; 
@@ -206,16 +206,43 @@ infobox p1 {
     height: 40px;
     margin-left: 23px;
     margin-top: 10px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.figure2 {
+    float: right;
+    width: 45%;
+    height: 40px;
+    margin-right: 23px;
+    margin-top: 10px;
+    text-align: center;
+    font-family: sans-serif;
 }
 .mttext {
     float: left;
     height: 100px;
     width: 950px;
-    margin-top: 20px;
+    margin-top: 5px;
     margin-left: auto;
     margin-right: auto;
     text-align: justify;
     font-family: sans-serif;
+}
+.rotoheader {
+    background-color: #90caf9;
+    width:950px;
+    height: 70px;
+    color: #FFFFFF;
+    font-size: 2rem;
+    font-family: 'Gaegu', cursive;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    text-align: center;
+    float: left;
+}
+.bridge {
+    
 }
 
 /*thefuture.html*/

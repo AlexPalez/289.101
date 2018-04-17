@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Gaegu');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 div {
     outline: 0px solid lime;
 }
@@ -57,7 +59,7 @@ body {
 
 /*home.html*/
 .homeheader {
-    background-color: #98ced1;
+    background-color: #5b83c7;
     width:950px;
     height: 140px;
     color: #FFFFFF;
@@ -72,7 +74,7 @@ body {
     max-width: 950px;
     margin-left: auto;
     margin-right: auto;
-    height: 500px;
+    height: 900px;
 }
 .banner img {
     max-width: 950px;
@@ -81,17 +83,27 @@ body {
 }
 .bannerinfo {
     margin-top: 20px;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 1em;
     margin-left: 30px;
 }
 .bannerinfo2 {
-    margin-top: 20px;
-    width: 200px;
+    margin-top: 50px;
+    width: 500px;
     margin-left: auto;
     margin-right:auto;
-    font-family: sans-serif;
-    font-size: 1rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    border-top: 2px solid #98ced1;
+}
+.bannerinfo3 {
+    margin-top: 10px;
+    width: 500px;
+    margin-left: auto;
+    margin-right:auto;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #98ced1;
 }
 
 /*mystory.html*/
@@ -100,7 +112,7 @@ body {
    padding: 0px 0;
 }
 .header2 {
-    background-color: dodgerblue;
+    background-color: #265c5a;
     width:950px;
     height: 140px;
     color: #FFFFFF;
@@ -111,7 +123,7 @@ body {
     padding: 20px 0 0 0;
 }
 .msbody {
-    background-color:#e0e0e0;
+    background-color:#dfe6f7;
     height: 950px;
     margin-left: auto;
     margin-right: auto;
@@ -133,7 +145,7 @@ body {
     margin-right: 35px;
     margin-top: 30px;
     height: 400px;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: #37474f;
 }
 .infobox p {
@@ -167,17 +179,38 @@ infobox p1 {
     margin-right: 35px;
     margin-top: 30px;
     height:450px;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 .keytitle {
     width: 400px;
     height: 400px;
     text-align: center;
     font-size: 2rem;
+    margin-top: 50px;
 }
 .locationlist {
     font-size: 1.3rem;
-    margin-top: 70px;
+    margin-top: 30px;
+}
+.places1 {
+    border: 2px solid #633b1f;
+    margin-top: 20px;
+}
+.places2 {
+    border: 2px solid blue;
+    margin-top: 20px;
+}
+.places3 {
+    border: 2px solid #ebce13;
+    margin-top: 20px;
+}
+.places4 {
+    border: 2px solid red;
+    margin-top: 20px;
+}
+.places5 {
+    border: 2px solid purple;
+    margin-top: 20px;
 }
 
 /*photogallery.html*/
@@ -231,7 +264,7 @@ infobox p1 {
     margin-left: 23px;
     margin-top: 10px;
     text-align: center;
-    font-family: sans-serif;
+   font-family: 'Raleway', sans-serif;
 }
 .figure2 {
     float: right;
@@ -240,7 +273,7 @@ infobox p1 {
     margin-right: 23px;
     margin-top: 10px;
     text-align: center;
-    font-family: sans-serif;
+   font-family: 'Raleway', sans-serif;
 }
 .mttext {
     float: left;
@@ -250,7 +283,7 @@ infobox p1 {
     margin-left: 25px;
     margin-right: auto;
     text-align: justify;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 .rotoheader {
     background-color: #90caf9;
@@ -284,7 +317,7 @@ infobox p1 {
     margin-left: 42px;
     margin-right: auto;
     text-align: justify;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 .mahiaheader {
      background-color: #90caf9;
@@ -307,7 +340,7 @@ infobox p1 {
     margin-left: 25px;
     margin-right: auto;
     text-align: justify;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 .hbheader {
     background-color: #90caf9;
@@ -335,7 +368,7 @@ infobox p1 {
     margin-left: 25px;
     margin-right: auto;
     text-align: justify;
-    font-family: sans-serif; 
+    font-family: 'Raleway', sans-serif;
 }
 .wellyheader {
     background-color: #90caf9;
@@ -364,18 +397,7 @@ infobox p1 {
     margin-left: 80px;
     margin-right: auto;
     text-align: justify;
-    font-family: sans-serif;  
-}
-/*thefuture.html*/
-.thefuture {
-   background-color: skyblue;
-    padding: 20px 0;
-}
-.header4 {
-    height: 90px;
-    color: #FFFFFF;
-    font-size: 1.5rem;
-    font-family: 'Gaegu', cursive; 
+   font-family: 'Raleway', sans-serif;
 }
 
 /*contact.html*/
@@ -407,7 +429,7 @@ infobox p1 {
 }
 .contactbox1 {
     color: #0c3338;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     float: right;
     margin-top: 20px;
     margin-right: 20px;
@@ -417,7 +439,7 @@ infobox p1 {
 }
 .contactbox2 {
      color: #0c3338;
-    font-family: sans-serif;
+   font-family: 'Raleway', sans-serif;
     float: right;
     margin-top: 20px;
     margin-right: 20px;

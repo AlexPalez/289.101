@@ -10,13 +10,13 @@ div {
     margin-right: auto;
 }
 body {
-    background-color:#fff9c4;
+    background-color: #fff9c4;
     margin: 0 0 0 0;  
 }
 /*This section is for the header/links on every page*/
 .header {
     border-top: solid white;
-    background-color:#ffcc80;
+    background-color: #fcb928;
     height: 100px;
     color: #FFFFFF;
     border-bottom: solid white;
@@ -58,11 +58,11 @@ body {
 
 /*home.html*/
 .homeheader {
-    background-color: #1c5c58;
+    background-color: #8cc781;
     width:950px;
-    height: 120px;
+    height: 140px;
     color: #FFFFFF;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     font-family: 'Gaegu', cursive;
     margin-left: auto;
     margin-right: auto;
@@ -70,7 +70,7 @@ body {
     padding-top: 20px;
 }
 .homebody {
-    height: 520px;
+    height: 600px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -78,7 +78,7 @@ body {
     max-width: 950px;
     margin-left: auto;
     margin-right: auto;
-    height: 500px;
+    height: 510px;
     background-color: ##fff9c4;
 }
 .banner img {
@@ -94,12 +94,12 @@ body {
     margin-top: 5px;
 }
 .bannerinfo2 {
-    margin-top: 10px;
+    margin-top: 5px;
     width: 500px;
     margin-left: auto;
     margin-right:auto;
     font-family: 'Raleway', sans-serif;
-    font-size: 2rem;
+    font-size: 1.8rem;
     border-top: 2px solid #98ced1;
 }
 .bannerinfo3 {
@@ -107,7 +107,7 @@ body {
     margin-left: auto;
     margin-right:auto;
     font-family: 'Raleway', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     border-bottom: 2px solid #98ced1;
     margin-bottom: 50px;
 }
@@ -137,7 +137,7 @@ body {
 .msbody img {
     max-width: 800px;
     width: 60%;
-    height: 400px;  
+    height: 440px;  
     margin-left: 30px;
     margin-top: 30px;
     border: 5px solid white;
@@ -188,7 +188,7 @@ infobox p1 {
     max-width: 400px;
     float: right;
     margin-right: 30px;
-    margin-top: 70px;
+    margin-top: 20px;
     border: none;
 }
 .nzmapkey {
@@ -197,7 +197,7 @@ infobox p1 {
     float: left;
     margin-left: 30px;
     margin-right: 35px;
-    margin-top: 70px;
+    margin-top: 30px;
     height:400px;
     font-family: 'Raleway', sans-serif;
 }
@@ -210,7 +210,7 @@ infobox p1 {
 }
 .locationlist {
     font-size: 1.3rem;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 .places1 {
     border: 2px solid #633b1f;
@@ -254,7 +254,7 @@ infobox p1 {
     height: 4500px;
 }
 .header3 {
-    background-color: #9e6009;
+    background-color: #8cc781;
     height: 120px;
     color: #FFFFFF;
     font-size: 1.5rem;
@@ -447,7 +447,7 @@ infobox p1 {
 
 /*contact.html*/
 .contact {
-   background-color: #7d0c0a;
+   background-color: #8cc781;
     padding: 20px 0;
 }
 .header5 {
@@ -457,7 +457,7 @@ infobox p1 {
     font-family: 'Gaegu', cursive; 
 }
 .contactbody {
-    background-color:#45a697;
+    background-color: skyblue;
     height: 500px;
     margin-left: auto;
     margin-right: auto;
@@ -466,7 +466,7 @@ infobox p1 {
 }
 .contactbody img {
     height: 460px;
-    width: 350px;
+    width: 380px;
     float: left;
     margin-top: 20px;
     margin-bottom: 20px;

@@ -43,7 +43,11 @@
       #mouth {
         position: absolute;
         width: 200px;
+        
       }
+        
+       
+        
     </style>
 </head>
 
@@ -52,7 +56,7 @@
   <div id="controls">
     <a id="eyes_up_btn">move eyes up</a>
     <a id="eyes_down_btn">move eyes down</a>
-    <a>move eyes closer together</a>
+    <a id="eyes_closer_together_btn">move eyes closer together</a>
     <a>move eyes further apart</a>
     <a>hollow eyes</a>
     <a>solid eyes</a>
@@ -105,7 +109,6 @@
       eye_right_y += 10;
       document.getElementById('eye_right').style.top = eye_right_y + 'px';
     });
-      
 //    make mouth sad event listener
        document.getElementById('sad_mouth_btn').addEventListener('click', function() {
        document.getElementById('mouth').src = 'mouth_sad.svg';    
@@ -115,6 +118,15 @@
       document.getElementById('happy_mouth_btn').addEventListener('click', function() {
        document.getElementById('mouth').src = 'mouth_happy.svg';    
        });
+      
+//      move eyes closer together
+      
+      document.getElementById('eyes_closer_together_btn').addEventListener('click', function() {
+      eye_left_x += 10;
+      document.getElementById('eye_left').style.left = eye_left_x + 'px';
+      eye_right_x += 10;
+      document.getElementById('eye_right').style.right = eye_right_x + 'px';
+    });
      
      
   </script>

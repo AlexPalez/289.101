@@ -56,3 +56,27 @@ padding: 0px 50px; 0px;
 text-decoration: underline #FFB879;
 padding-bottom: 20px;
 }
+
+.contactbody {
+    background-color: #FFB879;
+    
+}
+
+.jeff {
+    border-radius: 60px;
+    float: left;
+    margin-top: 50px;
+    
+}
+    
+.textbox {
+    background-color: #97A66F;
+    float: right;
+    border-radius: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    margin-top: 50px;
+    
+    
+}

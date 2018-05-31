@@ -1,0 +1,51 @@
+
+.title{
+background-color: #FFB879;
+color: white;
+font-family: 'Quicksand' , sans-serif;
+font-style: bold;
+font-size: 40px;
+text-align: center;
+margin-top: 30px;
+padding-bottom: 20px;
+padding-top: 20px;
+}
+
+
+.infohome{
+background-color:#97A66F;
+margin-top: 40px;
+border-radius: 80px;
+text-align: center;
+font-family: 'Quicksand' , sans-serif;
+font-size: 15px;
+float: left;
+padding-top: 25px;
+}
+
+
+.body img{
+border-radius: 80px;
+padding-top: 25px;
+margin-top: 20px;
+float: right;
+}
+
+.footer{
+text-align: center;
+margin-top: 50px;
+display: inline-block;
+font-family: 'Quicksand' , sans-serif;
+color: #FFB879;
+font-size: 40px;
+}
+
+.body{
+background-color: #FFB879;
+}
+
+.sponsorimages{
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+}
